@@ -1,0 +1,10 @@
+C:\Users\Syed Ali\source\repos\Blood Sport\Blood Sport\bin\Debug\Blood Sport.exe.config
+C:\Users\Syed Ali\source\repos\Blood Sport\Blood Sport\bin\Debug\Blood Sport.exe
+C:\Users\Syed Ali\source\repos\Blood Sport\Blood Sport\bin\Debug\Blood Sport.pdb
+C:\Users\Syed Ali\source\repos\Blood Sport\Blood Sport\obj\Debug\Blood Sport.csprojAssemblyReference.cache
+C:\Users\Syed Ali\source\repos\Blood Sport\Blood Sport\obj\Debug\Blood_Sport.Form1.resources
+C:\Users\Syed Ali\source\repos\Blood Sport\Blood Sport\obj\Debug\Blood_Sport.Properties.Resources.resources
+C:\Users\Syed Ali\source\repos\Blood Sport\Blood Sport\obj\Debug\Blood Sport.csproj.GenerateResource.cache
+C:\Users\Syed Ali\source\repos\Blood Sport\Blood Sport\obj\Debug\Blood Sport.csproj.CoreCompileInputs.cache
+C:\Users\Syed Ali\source\repos\Blood Sport\Blood Sport\obj\Debug\Blood Sport.exe
+C:\Users\Syed Ali\source\repos\Blood Sport\Blood Sport\obj\Debug\Blood Sport.pdb
